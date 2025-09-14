@@ -6,7 +6,7 @@ A simple **To-Do List application** built with **React**. This app allows users 
 
 ## Demo
 
-You can view the live demo here:(https://yourusername.github.io/todo-app)
+You can view the live demo here:[(https://yourusername.github.io/todo-app)](https://sreelal46.github.io/simple-react-to-do-app/)
 
 ---
 
